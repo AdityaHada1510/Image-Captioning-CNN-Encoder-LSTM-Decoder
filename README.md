@@ -30,3 +30,8 @@ The model is trained to generate human-like captions for images by learning from
 - 📜captions.txt             # File with image filename and captions
 - 📜requirements.txt         # Python package dependencies
 - 📜README.md                # Project documentation
+
+<img width="653" height="569" alt="1" src="https://github.com/user-attachments/assets/64a4dc89-4bc0-450d-b31f-d3f8fd5b2ace" />
+<img width="680" height="563" alt="2" src="https://github.com/user-attachments/assets/40e8d06e-5aab-431a-9afb-5bf2310cf086" />
+
+
